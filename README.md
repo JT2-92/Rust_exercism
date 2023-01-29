@@ -17,5 +17,4 @@ Exercism practice in Rust trace
 Title                                                                                                                 | Tags                                          | Descrption                                                                                              |           Code
 --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------- | :----------------------:
 [Hello World](https://exercism.org/tracks/rust/exercises/hello-world) | `str`                 | The classical introductory exercise. Just say "Hello, World!".  | [Rust](./hello-world)|
----------- | ------------------------------------------------------------------------------------------------------- | :----------------------:
 [Lucian's Luscious Lasagna](https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna) | `function`                 | Define and Calculate   | [Rust](./lucians-luscious-lasagna)|
