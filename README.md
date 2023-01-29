@@ -4,7 +4,7 @@ Exercism practice in Rust track
 
 # Exercism-Rust-Track
 
-[![Progress](https://img.shields.io/badge/Progress-85%25-brightgreen)](https://exercism.org/profiles/JT2-92)
+[![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)](https://exercism.org/profiles/JT2-92)
 
 Exercism practice in Rust trace
 
@@ -16,5 +16,7 @@ Exercism practice in Rust trace
 
 Title                                                                                                                 | Tags                                          | Descrption                                                                                              |           Code
 --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------- | :----------------------:
-[Hello World](https://exercism.org/tracks/rust/exercises/hello-world) | `iterator` `str` `string`                     | The classical introductory exercise. Just say "Hello, World!".  | [Rust](./reverse-string)
+[Hello World](https://exercism.org/tracks/rust/exercises/hello-world) | `str`                 | The classical introductory exercise. Just say "Hello, World!".  | [Rust](./hello-world)|
 
+---------- | ------------------------------------------------------------------------------------------------------- | :----------------------:
+[Lucian's Luscious Lasagna](https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna) | `function`                 | Define and Calculate   | [Rust](./lucians-luscious-lasagna)|
