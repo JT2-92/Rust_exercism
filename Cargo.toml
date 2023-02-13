@@ -1,0 +1,17 @@
+[package]
+name = "rust_exercism"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[workspace]
+members = [
+    "hello_world",
+    "lucians_luscious_lasagna",
+    "assembly_line",
+    "semi_structured_logs",
+    #    "resistor_color",
+    #    "health_statistics",
+    #    "a_short_fibonacci_sequence",
+]
