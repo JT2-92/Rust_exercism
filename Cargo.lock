@@ -3,11 +3,27 @@
 version = 3
 
 [[package]]
+name = "a_short_fibonacci_sequence"
+version = "0.1.0"
+
+[[package]]
 name = "assembly_line"
 version = "0.1.0"
 
 [[package]]
+name = "gigasecond"
+version = "0.1.0"
+
+[[package]]
+name = "health_statistics"
+version = "0.1.0"
+
+[[package]]
 name = "hello_world"
+version = "0.1.0"
+
+[[package]]
+name = "low_power_embedded_game"
 version = "0.1.0"
 
 [[package]]
